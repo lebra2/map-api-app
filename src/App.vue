@@ -1,5 +1,9 @@
+<script setup>
+import MapComponent from './components/MapComponent.vue';
+
+
+</script>
+
 <template>
-
-<h1 class="bg-red-500">Tere</h1>
-
+  <MapComponent />
 </template>
